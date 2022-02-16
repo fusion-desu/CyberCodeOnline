@@ -95,6 +95,7 @@ Wanna
 [UGA_UGA](https://github.com/mdendena2000)
 [Mancipi](https://github.com/Mancipi）
 [sugar-choco](https://github.com/sugar-choco)
+[Fusiondesu](https://github.com/fusion-desu)
 
 ## Proofreading
 [Skippayy](https://github.com/skippayyyy)
